@@ -1,4 +1,5 @@
 <?php require_once 'assets.php'; ?>
+<div class="alert alert-info" role="alert"><strong>Info.:</strong> Para usar você necessita colocar este short code em seu post  [banner_sc slug="slug_name"][/banner_sc]</div>
 <div class="content">
     <table class="table">
         <thead>

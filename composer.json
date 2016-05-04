@@ -1,0 +1,16 @@
+{
+    "name": "aserafim/wp-banner-shortcode",
+    "authors": [
+        {
+            "name": "Alan Gomes",
+            "email": "alanhr2@gmail.com"
+        }
+    ],
+    "require":{
+      "illuminate/database": "~5.2",
+        "illuminate/events": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {"MAD\\": "app/"}
+    }
+}
